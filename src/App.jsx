@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { hot } from 'react-hot-loader/root';
-import HelloWorld from './components/hello-world';
+import Button from '@material-ui/core/Button';
 
 class App extends Component {
   constructor(props) {
@@ -9,7 +9,11 @@ class App extends Component {
   }
 
   render() {
-    return <HelloWorld title="Hello from React webpack" />;
+    return (
+      <Button variant="contained" color="primary">
+        Hello World
+      </Button>
+    );
   }
 }
 
