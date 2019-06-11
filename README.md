@@ -1,7 +1,7 @@
 ## ZENZO Arcade 
 <p align="center">
     <img alt="dependencies" title="dependencies" src="https://img.shields.io/david/hashemkhalifa/webpack-react-boilerplate.svg" >
-   <img alt="dependencies" title="dependencies" src="https://img.shields.io/github/last-commit/akshaynexus/zenzo-material-ui.svg" >
+   <img alt="dependencies" title="dependencies" src="https://i.ibb.co/hKyLvn0/Screen-Shot-2019-06-11-at-7-35-09-PM.png" >
 </p>
 
 ### Installation
