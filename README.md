@@ -1,9 +1,8 @@
 ### Zenzo Aracde Material-UI
-
+![alt text](https://raw.githubusercontent.com/akshaynexus/zenzo-material-ui/master/screenshotnewui.png)
 <p align="center">
     <img alt="dependencies" title="dependencies" src="https://img.shields.io/david/hashemkhalifa/webpack-react-boilerplate.svg" >
 </p>
-![alt text](https://raw.githubusercontent.com/akshaynexus/zenzo-material-ui/master/screenshotnewui.png)
 
 ### Installation
 
