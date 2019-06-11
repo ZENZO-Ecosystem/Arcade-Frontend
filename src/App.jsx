@@ -35,29 +35,27 @@ function displayGames(datas) {
 
   return datas.map(game => {
     return (
-      <div key={game.id}>
-        <Grid item xs={2}>
-          <Card className={classes.paper}>
-            <CardActionArea>
-              <CardMedia
-                className={classes.media}
-                image={game.image}
-                title={game.title}
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h10" component="h2">
-                  {game.title}
-                </Typography>
-              </CardContent>
-            </CardActionArea>
-            <CardActions>
-              <Button size="large" color="primary" align="center">
-                {game.price} ZNZ
-              </Button>
-            </CardActions>
-          </Card>
-        </Grid>
-      </div>
+      <Grid item xs={2} key={game.id}>
+        <Card className={classes.paper}>
+          <CardActionArea>
+            <CardMedia
+              className={classes.media}
+              image={game.image}
+              title={game.title}
+            />
+            <CardContent>
+              <Typography gutterBottom variant="h10" component="h2">
+                {game.title}
+              </Typography>
+            </CardContent>
+          </CardActionArea>
+          <CardActions>
+            <Button size="large" color="primary" align="center">
+              {game.price} ZNZ
+            </Button>
+          </CardActions>
+        </Card>
+      </Grid>
     );
   });
 }
