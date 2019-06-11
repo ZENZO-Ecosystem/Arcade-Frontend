@@ -1,51 +1,14 @@
-## Webpack react minimal boilerplate
+## ZENZO Arcade 
 <p align="center">
     <img alt="dependencies" title="dependencies" src="https://img.shields.io/david/hashemkhalifa/webpack-react-boilerplate.svg" >
    <img alt="dependencies" title="dependencies" src="https://img.shields.io/github/last-commit/akshaynexus/zenzo-material-ui.svg" >
 </p>
 
-> Minimal webpack and react boilerplate using latest version of react and babel as well as jest and enzyme for more details about technologies used. [click](#technologies-used) 
-> with real time server changes ;)
-
-> check out  [Medium article](https://medium.com/@hashem.khalifa/minimal-webpack-and-react-starter-boilerplate-seriously-d90a673e134f) for more details 
-
-
-
-![Real time change](https://cdn-images-1.medium.com/max/1600/1*0Slpwk3trmF7kLeoFp5UOw.gif)
-
-### Table of contents
-[Project structure](#project-structure)
-
-[Installation](#installation)
-
-[Configuration](#configuration)
-
-[Technologies used](#technologies-used)
-
-### Project structure
-
-````
-build/
-src/
-|- index.jsx _______________________________ # Application entry 
-|- App.jsx _________________________________ # Application init
-|  |- Components/
-|    |- hello-world/ 
-|       |- index.jsx _______________________ # Sample component
-
-webpack
-|- paths.js ________________________________ # webpack paths needed
-|- webpack.common.js _______________________ # common webpack config
-|- webpack.dev.js __________________________ # development config
-|- webpack.prod.js _________________________ # production config      
-````
-
-
 ### Installation
 
 1- Clone the boilerplate repo
 
-`git clone git@github.com:HashemKhalifa/webpack-react-boilerplate.git`
+`git clone git@github.com:akshaynexus/zenzo-material-ui.git`
 
 2- `yarn` or `npm install` to install npm packages
 
