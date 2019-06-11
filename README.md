@@ -3,7 +3,7 @@
 <p align="center">
     <img alt="dependencies" title="dependencies" src="https://img.shields.io/david/hashemkhalifa/webpack-react-boilerplate.svg" >
 </p>
-   <img src="https://i.ibb.co/hKyLvn0/Screen-Shot-2019-06-11-at-7-35-09-PM.png" >
+![alt text](https://raw.githubusercontent.com/akshaynexus/zenzo-material-ui/master/screenshotnewui.png)
 
 ### Installation
 
