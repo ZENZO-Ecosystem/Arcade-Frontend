@@ -1,5 +1,5 @@
-### Zenzo Aracde Material-UI
-![alt text](https://raw.githubusercontent.com/akshaynexus/zenzo-material-ui/master/screenshotnewui.png)
+### ZENZO Arcade Material-UI
+![alt text](https://raw.githubusercontent.com/ZENZO-Ecosystem/Arcade-Frontend/master/screenshotnewui.png)
 <p align="center">
     <img alt="dependencies" title="dependencies" src="https://img.shields.io/david/hashemkhalifa/webpack-react-boilerplate.svg" >
 </p>
@@ -8,7 +8,7 @@
 
 1- Clone the ZENZO UI Repo
 
-`git clone git@github.com:akshaynexus/zenzo-material-ui.git`
+`git clone git@github.com:ZENZO-Ecosystem/Arcade-Frontend.git`
 
 2- `yarn` or `npm install` to install npm packages
 
